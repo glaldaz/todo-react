@@ -10,10 +10,10 @@ Simply open the index.html file.
 
 ## Future Improvements
 
--I would like to soften up the colors
--I would like to add buttons to remove the items
--Add functionality to marke items as doen but not remove them
--Add functionality for multiple days with a dropdown menu
+- I would like to soften up the colors
+- I would like to add buttons to remove the items
+- Add functionality to marke items as doen but not remove them
+- Add functionality for multiple days with a dropdown menu
 
 ## Licese Information
 
